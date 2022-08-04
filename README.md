@@ -2,4 +2,4 @@
 idk why i made this
 
 TODO:
-  - print size od the file when copied
+  - print size of the file when copied
