@@ -1,4 +1,5 @@
 # python-file-extension-search
 idk why i made this
 
-soon
+TODO:
+  - print size od the file when copied
