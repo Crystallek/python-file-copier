@@ -4,6 +4,3 @@
 idk why i made this
 
 fork it idc
-
-TODO:
-  - print size of the file when copied
